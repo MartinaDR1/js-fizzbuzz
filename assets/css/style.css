@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(233, 127, 148);
+}
+
+.box{
+    width: calc(100% / 8);
+    aspect-ratio: 1;
+    background-color: rgb(129, 173, 223);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
