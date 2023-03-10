@@ -10,4 +10,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 3px;
 }
+
+.bg_mod3{
+    background-color: lightgreen;
+}
+
