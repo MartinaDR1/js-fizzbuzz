@@ -3,14 +3,14 @@ body{
 }
 
 .box{
-    width: calc(100% / 8);
+    width: calc(100% / 8 - 1rem);
     aspect-ratio: 1;
     background-color: rgb(129, 173, 223);
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 3px;
+    margin: 1rem;
 }
 
 .bg_mod3{
